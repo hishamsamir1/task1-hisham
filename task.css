@@ -1,0 +1,28 @@
+ul {
+    background-color: wheat;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: rgb(188, 165, 143);
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5cm 5cm;
+}
+li a:hover {
+    background-color:rgb(24, 4, 4);
+}
+form{
+    padding: 0.2cm 15cm;
+}
+body{
+    background-color: sandybrown;
+    
+
+}
